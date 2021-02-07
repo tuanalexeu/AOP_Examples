@@ -1,6 +1,5 @@
-package com.example.aop.afterAdvice;
+package com.example.aop.aroundAdvice;
 
-import com.example.aop.aroundAdvice.WorkerBean;
 import org.aopalliance.intercept.MethodInterceptor;
 import org.aopalliance.intercept.MethodInvocation;
 import org.springframework.aop.framework.ProxyFactory;
