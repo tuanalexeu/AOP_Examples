@@ -1,4 +1,4 @@
-package com.example.aop;
+package com.example.aop.beforeAdvice;
 
 public class UserInfo {
     private String userName;

@@ -1,5 +1,6 @@
-package com.example.aop;
+package com.example.aop.beforeAdvice;
 
+import com.example.aop.Guitarist;
 import org.springframework.aop.MethodBeforeAdvice;
 import org.springframework.aop.framework.ProxyFactory;
 

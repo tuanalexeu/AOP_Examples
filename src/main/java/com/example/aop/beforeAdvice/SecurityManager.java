@@ -1,4 +1,4 @@
-package com.example.aop;
+package com.example.aop.beforeAdvice;
 
 public class SecurityManager {
     private static final ThreadLocal<UserInfo> threadLocal = new ThreadLocal<>();
